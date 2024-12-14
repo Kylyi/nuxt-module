@@ -4,5 +4,8 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   imports: {
     // dirs: ['./types']
+  },
+  components: {
+    dirs: ['~/components'],
   }
 })
