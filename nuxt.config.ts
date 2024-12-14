@@ -6,6 +6,8 @@ export default defineNuxtConfig({
     // dirs: ['./types']
   },
   components: {
-    dirs: ['~/components'],
+    dirs: [
+      { path: '~/components', pathPrefix: false }
+    ]
   }
 })
