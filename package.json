@@ -1,0 +1,5 @@
+{
+  "name": "nuxt-app",
+  "type": "module",
+  "exports": { ".": "./constants/x.ts" }
+}
