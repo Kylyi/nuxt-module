@@ -1,5 +1,4 @@
 {
   "name": "nuxt-app",
-  "type": "module",
-  "files": ["./constants/x.ts"]
+  "type": "module"
 }
