@@ -1,5 +1,6 @@
 {
   "name": "nuxt-app",
   "type": "module",
-  "exports": { ".": "./constants/x.ts" }
+  "files": ["./constants/x.ts"],
+  "files": []
 }
